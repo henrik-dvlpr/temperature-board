@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 13.405,
+    "lat": 52.52
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 31.92,
+    "feels_like": 30.62,
+    "temp_min": 28.87,
+    "temp_max": 34.38,
+    "pressure": 1008,
+    "humidity": 29
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.24,
+    "deg": 67,
+    "gust": 4.47
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1658254272,
+  "sys": {
+    "type": 2,
+    "id": 2009543,
+    "country": "DE",
+    "sunrise": 1658199988,
+    "sunset": 1658258308
+  },
+  "timezone": 7200,
+  "id": 6545310,
+  "name": "Mitte",
+  "cod": 200
+}
